@@ -47,6 +47,27 @@ h1 {
 
 
 
+.me{
+
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  border: solid ;
+  padding-left: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: green;
+  border-radius: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+
+
+
+}
+
+
+
 body{
 
    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_the_United_States_Marine_Corps.svg/1200px-Emblem_of_the_United_States_Marine_Corps.svg.png)

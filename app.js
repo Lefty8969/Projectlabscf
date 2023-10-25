@@ -1,3 +1,5 @@
+'use strict';
+
 let userName = prompt('Hey, Welcome what is your name?');
 userName = userName.toLowerCase();
 //console.log(userName);
