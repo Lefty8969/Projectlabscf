@@ -1,4 +1,4 @@
 # About Me
 
 
- [LightHouse Score](img/Screenshot 2023-10-24 at 6.50.43 PM.png)
+ [LightHouse Score](img/Screenshot.png)
