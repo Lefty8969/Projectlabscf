@@ -50,12 +50,42 @@ case 'n':
   //console.log('Respect my rank and get lost')
   alert('What ? Im not a civilian!');
 break;
-
-
-
-
-
 }
 
 
+//let brothers= 1
+//for(let i = 0; i<4; i++){
+ // let userNumber = prompt('Guess how many brothers I have?');
+//parseInt(userNumber);
+//}
 
+
+
+
+
+for( let i = 1; i < 5; i++ ) {
+
+  let guess = prompt("How many brother do i have?");
+
+  guess = Number(guess);
+  if( guess === 5 ) {
+   alert("Hoe did you know!");
+   break;
+  }
+  }
+
+
+
+ 
+
+  let cars = ["honda", "nissan", "chevy"];
+
+  let rightAns = false;
+
+  while( ! rightAns ) {
+    let guess = prompt("Which car is mine?");
+    if( cars.includes( guess ) ) {
+      alert("Amazing!");
+      rightAns = true;
+    }
+  }
